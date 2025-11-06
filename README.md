@@ -4,21 +4,6 @@
 **Tech Enthusiast • Aspiring Developer • Lifelong Learner**
 
 </div>
-
----
-
-## About Me  
-
-I’m a **16-year-old** **Python developer** who loves **open source**, building **practical tools**, and making programming feel a little less intimidating for **beginners**. I started with **Python**, **HTML**, and **CSS**, and now I’m diving into **Django** for **backend** magic and **Tailwind CSS** for sleek **frontend** work. I enjoy breaking down complex ideas, **sharing knowledge**, and making things that actually help people.  
-
-When I’m not coding, you’ll probably find me **experimenting** with new **technology**, following the latest in **AI** and **cybersecurity**, or catching up on the newest **tech-themed anime** (yes, there’s always room for a good story with some gadgets in it).  
-
-I’m also known for throwing in the occasional bad **joke** — because who said developers have to be serious all the time? (And yes, my code runs faster when I make puns… or at least, I like to think so.)  
-
-With an average **typing speed** of **60 WPM**, I like to keep my fingers — and ideas — moving fast. Whether it’s contributing to **open source**, learning something new, or collaborating on cool **projects**, I believe every experience is a chance for **growth**, **problem-solving**, and a little bit of **fun** along the way.  
-
----
-
 ## Tools & Technologies  
 
 _These icons are my project too_

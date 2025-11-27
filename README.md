@@ -1,3 +1,5 @@
+
+<img height=290 src="https://raw.githubusercontent.com/Aarya-Chauhan/Aarya-Chauhan/main/banner.png" alt="my banner">
 <div align="center">
 
 # Hi, I'm **Suraj Kabir** 👋  

@@ -1,51 +1,54 @@
-
 <img height=290 src="https://raw.githubusercontent.com/Aarya-Chauhan/Aarya-Chauhan/main/banner.png" alt="my banner">
 <div align="center">
 
-# Hi, I'm **Suraj Kabir** 👋  
-**Tech Enthusiast • Aspiring Developer • Lifelong Learner**
+# Hi, I'm **Suraj Kabir** 👋
 
+
+
+
+## 🌐 Skills
+
+<p>
+**Tech Enthusiast • Aspiring Developer • Lifelong Learner**</p>
+<img align="right" width=400 src="https://media.tenor.com/o-wNCEq_6f0AAAAM/pompo-the-cinephile-typing-fast.gif" alt="my gif file">
 </div>
-## Tools & Technologies  
-
-_These icons are my project too_
-
-<p align="center">
-  <img src="https://iconic-api.onrender.com/dark/python" width="48px" title="Python"/>
-  <img src="https://iconic-api.onrender.com/dark/html" width="48px" title="HTML"/>
-  <img src="https://iconic-api.onrender.com/dark/css" width="48px" title="CSS"/>
-  <img src="https://iconic-api.onrender.com/dark/markdown" width="48px" title="Markdown"/>
-  <img src="https://iconic-api.onrender.com/dark/git" width="48px" title="Git"/>
-  <img src="https://iconic-api.onrender.com/dark/github" width="48px" title="GitHub"/>
-  <img src="https://iconic-api.onrender.com/dark/django" width="48px" title="Django"/>
-  <img src="https://iconic-api.onrender.com/dark/tailwind" width="48px" title="Tailwind CSS"/>
-  <img src="https://iconic-api.onrender.com/dark/vscode" width="48px" title="VS Code"/>
-  <img src="https://iconic-api.onrender.com/dark/github-actions" width="48px" title="GitHub Actions"/>
-  <img src="https://iconic-api.onrender.com/dark/canva" width="48px" title="Canva"/>
-  <img src="https://iconic-api.onrender.com/dark/inkscape" width="48px" title="Inkscape"/>
-  <img src="https://iconic-api.onrender.com/dark/notion" width="48px" title="Notion"/>
+<p >
+  <img src="https://iconic-api.onrender.com/dark/cpp" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/js" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/vite" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/wordpress" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/react" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/vercel" width="48px" />
+  <img src="https://iconic-api.onrender.com/dark/python" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/replit" width="48px"/>
+<img src="https://iconic-api.onrender.com/dark/postman" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/stackoverflow" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/nodejs" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/nextjs" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/mongodb" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/mysql" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/git" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/html" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/geeksforgeeks" width="48px"/>
+<img src="https://iconic-api.onrender.com/dark/c" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/git" width="48px"/>
+<img src="https://iconic-api.onrender.com/dark/freecodecamp" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/express" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/firebase" width="48px" />
 </p>
 
+##
 
+## 🌐 Socials
+
+<p align="left">
+<a  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aarya_c111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="30" width="40" /></a>
+<a href="https://leetcode.com/u/_KABIR007_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+</p>
 
 ---
 
 ## Github Stats
 
-<details>
-<summary>Click here to view my GitHub Stats</summary>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YuheshPandian&theme=tokyonight&no-frame=true&margin-w=15" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuheshPandian&theme=tokyonight&hide_border=true" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=YuheshPandian&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuheshPandian&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-
 </details>
-
-![GitHub User's stars](https://img.shields.io/github/stars/YuheshPandian?style=for-the-badge&color=%23efff78)
-![GitHub followers](https://img.shields.io/github/followers/YuheshPandian?style=for-the-badge&color=7b63ff)
-<img src="https://komarev.com/ghpvc/?username=YuheshPandian&style=for-the-badge&color=dd33a5&abbreviated=true" />
-
-
